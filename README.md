@@ -84,6 +84,7 @@ Dietary Delights works with the following mods:
 70. You've Goat to be Kidding Me
 71. More Delight
 72. Crabber's Delight
+73. My Nether's Delight (Meat Tag Only)
 ## Implementation Guide
 ### Specific Dietary Tag
 To apply a specific dietary tag, such as Pescatarian, use the following JSON structure:
